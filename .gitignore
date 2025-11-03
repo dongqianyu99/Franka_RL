@@ -82,8 +82,5 @@ tests/
 # IsaacLab
 IsaacLab/
 
-# pointops
-pointops/
-
-# chamfer_distance
-chamfer_distance/
+# thirdparty
+thirdparty/
